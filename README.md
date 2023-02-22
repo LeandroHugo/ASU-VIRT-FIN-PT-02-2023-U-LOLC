@@ -13,7 +13,7 @@ As the gender wealth gap continues to be a persistent issue, Ellevest, a New Yor
 
 The company was founded when Krawcheck noticed the lack of investment options and financial advice tailored specifically to women. She realized that women face unique financial challenges, including pay disparities, longer lifespans, and career breaks for caregiving. Traditional financial services providers often failed to address these issues and cater to the specific needs of women.
 
-To address this gap, Krawcheck founded Ellevest, which offers a range of investment and financial planning services specifically designed for women. The company's algorithm creates customized investment portfolios based on a client's financial goals, time horizon, and risk tolerance. Additionally, Ellevest provides a suite of educational resources and tools to help women improve their financial literacy and make informed investment decisions.
+To address this gap, Krawcheck founded Ellevest, which offers a range of investment and financial planning services specifically designed for women. The company's algorithm creates customized investment portfolios based on a **client's financial goals, time horizon, and risk tolerance.** Additionally, Ellevest provides a suite of educational resources and tools to help women improve their financial literacy and make informed investment decisions.
 
 Ellevest is funded by a combination of venture capital and strategic investors. The company has raised over $70 million in funding, with investors including Rethink Impact, PSP Growth, and tennis star Venus Williams. The company has used its funding to expand its services and technology, as well as to support its marketing and growth efforts.
 
@@ -54,6 +54,7 @@ Ellevest's focus on empowering women and closing the gender wealth gap has reson
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
+Sales Force - CRM
 
 ## Landscape
 * What domain of the financial industry is the company in?
