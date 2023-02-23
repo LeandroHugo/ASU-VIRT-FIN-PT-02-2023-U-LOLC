@@ -73,3 +73,7 @@ Sales Force - CRM
 * Why do you think that offering this product or service would benefit the company?
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
+
+
+
+I showed up for women.
