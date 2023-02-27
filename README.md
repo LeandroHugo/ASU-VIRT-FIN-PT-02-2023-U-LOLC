@@ -7,7 +7,7 @@
 * When was the company incorporated?
 * Who are the founders of the company?
 * How did the idea for the company (or project) come about?
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received?  
 
 As the gender wealth gap continues to be a persistent issue, Ellevest, a New York-based financial technology company, has emerged as a leader in empowering women to take control of their financial futures. Founded in 2014 by Sallie Krawcheck, a former Wall Street executive and advocate for women's financial empowerment. The company's vision is to give women the resources and tools they need to take control of their financial lives and bridge the gender wealth gap.
 
