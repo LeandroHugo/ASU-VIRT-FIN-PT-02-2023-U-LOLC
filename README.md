@@ -15,9 +15,9 @@ To address this gap, Krawcheck founded Ellevest, which offers a range of investm
 
 Ellevest is funded by a combination of venture capital and strategic investors. The company has raised over $70 million in funding, with investors including Rethink Impact, PSP Growth, and even tennis star Venus Williams. The company has used its funding to expand its services and technology, as well as to support its marketing and growth efforts.
 
-Ellevest has been recognized for its innovative approach to investing and financial planning, as well as its focus on empowering women. Led by the renowned Sallie Krawcheck - who Fortune Magazine called “the Last Honest Analyst” - Ellevest has received several awards, including being selected by NerdWallet as one of the Best Robo-Advisors in both 2019 and 2018. Ellevest continues to be a leader in the fintech industry, advocating for greater financial equality and accessibility for women."
+Ellevest has been recognized for its innovative approach to investing and financial planning, as well as its focus on empowering women. Led by the renowned Sallie Krawcheck - who Fortune Magazine called “the Last Honest Analyst” - Ellevest has received several awards, including being selected by NerdWallet as one of the Best Robo-Advisors in both 2018 and 2019. Ellevest continues to be a leader in the fintech industry, advocating for greater financial equality and accessibility for women."
 
-Ellevest has been recognized for its innovative approach to investing and financial planning, with a specific focus on solving the financial problem of the gender wealth gap. The company has received several awards, including being named one of Fast Company's Most Innovative Companies in 2018 and 2019, in recognition of its unique approach to empowering women and providing financial services that cater to their specific needs. Ellevest is dedicated to closing the gender wealth gap and has developed a range of investment and financial planning services that are tailored to the unique challenges faced by women. Ellevest is pioneering a new approach to empower women financially by offering services and educational resources that make financial planning more accessible for all. In a bid to bridge the gender wealth gap, Ellevest has created an investment service specifically tailored to put women first. Nearly 123,000 customers have chosen to make use of the platform, who range from 18 to 106 years old, with the most common user being a 30-something woman who are also saving in her 401(k).
+Ellevest is pioneering a new approach to empower women financially by offering services and educational resources that make financial planning more accessible for all. In a bid to bridge the gender wealth gap, Ellevest has created an investment service specifically tailored to put women first. Nearly 123,000 customers have chosen to make use of the platform, who range from 18 to 106 years old, with the most common user being a 30-something woman who are also saving in her 401(k).
 
 The company's average account size is $8,000, and the company is committed to serving a diverse range of clients. While its core focus is on providing investment and financial planning services to women, a small portion of the business also focuses on higher-net-worth clients, with a "triple-digit" number of accounts holding $1 million or more. This is a demographic that Ellevest's founder, Sallie Krawcheck, did not originally intend to address with the company, but the events of recent years changed her mind.
 
@@ -41,7 +41,7 @@ Ellevest's focus on empowering women and closing the gender wealth gap has reson
 
 
 
-[SALESFORCE AND ELLEVES - WATCH ME](https://salesforce.vidyard.com/watch/yX2QguS8dnAvvb55aRLhVf)
+[SALESFORCE AND ELLEVEST - WATCH ME](https://salesforce.vidyard.com/watch/yX2QguS8dnAvvb55aRLhVf)
 
 The integration of Salesforce information with Ellevest and other relevant sources, a merge was essential for defining the implementation of Ellevest's focus on empowering women and closing the gender wealth gap. With a diverse range of clients, from young savers to high-net-worth investors, Ellevest stands out among its fintech competitors by addressing the unique financial challenges experienced by women. This commitment represents a major innovation in the financial services industry that enables greater accessibility and equality for women in regards to their finances.
 
@@ -49,7 +49,7 @@ The integration of Salesforce information with Ellevest and other relevant sourc
 
 The milestone of Ellevest having achieved over $1 billion in assets under management (AUM) highlights their success not only despite the challenging economic climate brought on by the pandemic, but also due to it. Despite U.S. equity funds seeing more than $241 billion in outflows in 2020, Ellevest experienced net positive inflows each week, constituting a testament to their success in providing financial services and opportunities for women during the she-cession.
 
-Robo advising has become a popular and cost-effective alternative to traditional investment advisors, with companies like Ellevest, Betterment, Wealthfront, Schwab Intelligent Portfolios, and Vanguard Personal Advisor Services offering solutions that provide users with automated investing advice.
+Robo advising has become a popular and cost-effective alternative to traditional investment advisors, with companies like Ellevest, Betterment, Wealthfront, Schwab Intelligent Portfolios, and Vanguard Personal Advisor Services offering solutions that provide users with automated investing advice. Listed are a few transparencies between companies:
 
 * Investing Philosophy: Ellevest focuses on gender-responsive investing and custom portfolios tailored to your goals. This approach is different from Betterment, Wealthfront, Schwab Intelligent Portfolios and Vanguard Personal Advisor Services, which all use a more passive approach to portfolio management.
 
@@ -77,6 +77,8 @@ Ultimately, Ellevest stands at the helm of financial inclusion, and has delivere
 ![SALLIE](SALLIEKRAWCHECKELLEVEST.png)
 
 <h1 align="center">"Nothing bad happens when women have more money!"<H1>
+
+
 
 
 
